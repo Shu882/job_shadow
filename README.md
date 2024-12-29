@@ -17,7 +17,7 @@
   - European option price formula
   - project: option pricing with Monte Carlo simulation
 
-- **11:10-12:00:** project: Sentiment analysis with transformers
+- **11:10-12:00:** project: sentiment analysis with transformers
   - how do you konw if you should long (short) this stock? Sentiment analysis
   - cleaning news data  from Alpaca
   - sentiment analysis with FinBERT and other models
