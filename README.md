@@ -22,8 +22,11 @@
   - cleaning news data  from Alpaca
   - sentiment analysis with FinBERT and other models
 
-- **1:00-2:00:** project: deep learning for trading and backtesting
-  - TBD
+- **1:00-2:00:** project: deep learning based trading strategy development and backtesting
+  - Pull and analyze stock price data from Yahoo finance
+  - Train gated recurrent unit (GRU) networks for stock price forecasting
+  - Develop and implement a simple trading strategy based on GRU
+  - Backtest the trading strategy with zipline and pyfolio
 
 
 
