@@ -10,7 +10,9 @@ python -m pip install packackge_name
 ```
 on your terminal (MacOS or Linux) or PowerShell (Windows).
 # Project 2: news sentiment analysis
-Coming soon.
+- sentiment_analysis_alpaca_BERT: using pretrained transformer model FinBERT for financial news sentiment analysis
+- nvda_alpaca_news.bz2: analysis results
+There are also many other ways.
 
 
 # Project 3: nn for trading
