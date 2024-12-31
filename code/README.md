@@ -16,7 +16,7 @@ Financial news is fetched through Alpaca api. You might register and get your ow
 - sentiment_analysis_alpaca_BERT: using pretrained transformer model FinBERT for financial news sentiment analysis
 - nvda_alpaca_news.bz2: analysis results
 
-There are also many other ways.
+There are also many other methods to do sentiment analysis.
 
 
 # Project 3: nn for trading
