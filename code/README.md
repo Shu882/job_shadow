@@ -10,6 +10,9 @@ python -m pip install packackge_name
 ```
 on your terminal (MacOS or Linux) or PowerShell (Windows).
 # Project 2: news sentiment analysis
+
+Financial news is fetched through Alpaca api. You might register and get your own api key and secret. Or you can use the one provided here. 
+
 - sentiment_analysis_alpaca_BERT: using pretrained transformer model FinBERT for financial news sentiment analysis
 - nvda_alpaca_news.bz2: analysis results
 
