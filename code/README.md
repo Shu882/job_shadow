@@ -53,3 +53,6 @@ With that, you should be ready to run the notebook. Expect to see numerous messa
 - util.py: utility classes and functions
 - gru_stock_pred.pth: trained GRU model ready to use
 - nn_gru_backtesting_zipline: may need to modify the Path dependencies
+
+# Asian option pricing
+C++ code for Asian option pricing with Monte Carlo and concurrency. Won't be covered. Only for your reference.
