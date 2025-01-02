@@ -1,5 +1,7 @@
 ## Goal: 
+  - what quants do
   - how capital markets work
+  - understand the basics of derivative securities
   - how to make smart investment
 ## Agenda
 
