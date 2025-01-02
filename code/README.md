@@ -55,4 +55,4 @@ With that, you should be ready to run the notebook. Expect to see numerous messa
 - nn_gru_backtesting_zipline: may need to modify the Path dependencies
 
 # Asian option pricing
-C++ code for Asian option pricing with Monte Carlo and concurrency. Won't be covered. Only for your reference.
+My own C++ hobby code for Asian option pricing with Monte Carlo and concurrency. Won't be covered. For your amusement only.
