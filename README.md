@@ -1,3 +1,6 @@
+## Goal: 
+  - how capital markets work
+  - how to make smart investment
 ## Agenda
 
 - **9:00-9:15:** welcome and overview of the day
